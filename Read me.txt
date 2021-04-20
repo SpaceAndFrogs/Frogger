@@ -1,0 +1,2 @@
+Konsole do wpisania cheat code uruchamia się na urządzeniach z ekranem dotykowym przez dotknięcie ekranu naraz 4 palcami lub w edytorze przez naciśnięcie ctrl+shift+z
+Cheat code do wygrania poziomu to "Win"
